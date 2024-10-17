@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="mdi-account-alert"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="account-alert-green.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.16"
+     inkscape:cx="11.805556"
+     inkscape:cy="11.805556"
+     inkscape:window-width="1104"
+     inkscape:window-height="710"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="mdi-account-alert" />
+  <path
+     d="m 20,17 v -2 h 2 v 2 z"
+     id="path4" />
+  <path
+     d="M 20,12 V 7 h 2 v 6 h -2"
+     id="path3" />
+  <path
+     d="m 10,14 c 4.42,0 8,1.79 8,4 v 2 H 2 v -2 c 0,-2.21 3.58,-4 8,-4"
+     id="path2"
+     style="fill:#00ff00" />
+  <path
+     d="M 10,4 A 4,4 0 0 1 14,8 4,4 0 0 1 10,12 4,4 0 0 1 6,8 4,4 0 0 1 10,4"
+     id="path1"
+     style="fill:#00ff00" />
+</svg>

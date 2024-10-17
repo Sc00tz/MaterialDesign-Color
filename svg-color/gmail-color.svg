@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="mdi-gmail"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="gmail-color.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="14.04"
+     inkscape:cx="11.858974"
+     inkscape:cy="12.037037"
+     inkscape:window-width="1432"
+     inkscape:window-height="849"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="mdi-gmail" />
+  <path
+     d="M 20,4 H 4 C 2.89,4 2,4.89 2,6 v 12 a 2,2 0 0 0 2,2 h 16 a 2,2 0 0 0 2,-2 V 6 C 22,4.89 21.1,4 20,4 Z"
+     id="path2" />
+  <path
+     d="M 18.404558,5.9230769 H 5.5954416 c -0.8886324,0 -1.6011396,0.6760577 -1.6011396,1.5192308 v 9.1153853 a 1.6011396,1.5192308 0 0 0 1.6011396,1.51923 H 18.404558 a 1.6011396,1.5192308 0 0 0 1.60114,-1.51923 V 7.4423077 c 0,-0.8431731 -0.720512,-1.5192308 -1.60114,-1.5192308 z"
+     id="path3"
+     style="fill:#f9f9f9;stroke-width:0.779824" />
+  <path
+     d="M 20,18 H 18 V 9.25 L 12,13 6,9.25 V 18 H 4 V 6 H 5.2 L 12,10.25 18.8,6 H 20"
+     id="path1"
+     style="fill:#ff0000" />
+</svg>

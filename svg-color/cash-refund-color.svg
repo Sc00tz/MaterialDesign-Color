@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="mdi-cash-refund"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="cash-refund-color.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="9.28"
+     inkscape:cx="11.907328"
+     inkscape:cy="12.068966"
+     inkscape:window-width="1104"
+     inkscape:window-height="555"
+     inkscape:window-x="170"
+     inkscape:window-y="226"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="mdi-cash-refund" />
+  <rect
+     style="fill:#00ff00;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:1"
+     id="rect1"
+     width="16.271551"
+     height="10.237069"
+     x="3.8793104"
+     y="11.853448" />
+  <path
+     d="M12.3 8.93L9.88 6.5H15.5V10H17V5H9.88L12.3 2.57L11.24 1.5L7 5.75L11.24 10L12.3 8.93M12 14A3 3 0 1 0 15 17A3 3 0 0 0 12 14M3 11V23H21V11M19 19A2 2 0 0 0 17 21H7A2 2 0 0 0 5 19V15A2 2 0 0 0 7 13H17A2 2 0 0 0 19 15Z"
+     id="path1" />
+</svg>

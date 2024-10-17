@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="mdi-close-network"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="close-network-red.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="22.916667"
+     inkscape:cx="11.978182"
+     inkscape:cy="12"
+     inkscape:window-width="1448"
+     inkscape:window-height="769"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="mdi-close-network" />
+  <path
+     d="M 14.59,6 12,8.59 9.41,6 8,7.41 10.59,10 8,12.59 9.41,14 12,11.41 14.59,14 16,12.59 13.41,10 16,7.41 14.59,6 M 17,3 a 2,2 0 0 1 2,2 v 10 a 2,2 0 0 1 -2,2 h -4 v 2 h 1 a 1,1 0 0 1 1,1 h 7 v 2 h -7 a 1,1 0 0 1 -1,1 H 10 A 1,1 0 0 1 9,22 H 2 v -2 h 7 a 1,1 0 0 1 1,-1 h 1 V 17 H 7 C 5.89,17 5,16.1 5,15 V 5 A 2,2 0 0 1 7,3 Z"
+     id="path1"
+     style="display:inline" />
+  <path
+     d="M 14.59,6 12,8.59 9.41,6 8,7.41 10.59,10 8,12.59 9.41,14 12,11.41 14.59,14 16,12.59 13.41,10 16,7.41 14.59,6 M 17,3 c 1.104569,0 2,0.8954305 2,2 v 10 c 0,1.104569 -0.895431,2 -2,2 H 7 C 5.89,17 5,16.1 5,15 V 5 C 5,3.8954305 5.8954305,3 7,3 Z"
+     id="path2"
+     sodipodi:nodetypes="cccccccccccccsssssssss"
+     style="fill:#ff0000" />
+</svg>

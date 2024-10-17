@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="mdi-beer"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="beer-color.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="16.15"
+     inkscape:cx="12.136223"
+     inkscape:cy="9.504644"
+     inkscape:window-width="1424"
+     inkscape:window-height="668"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="mdi-beer" />
+  <path
+     d="M4,2H19L17,22H6L4,2M6.2,4L7.8,20H8.8L7.43,6.34C8.5,6 9.89,5.89 11,7C12.56,8.56 15.33,7.69 16.5,7.23L16.8,4H6.2Z"
+     id="path1"
+     style="fill:#ffdd55" />
+  <path
+     id="path1-9"
+     d="m 4.0028485,1.9960394 2,19.9999946 H 17.002841 l 2,-19.9999946 z m 2.199218,2 H 16.803622 L 15.202059,19.996034 H 7.8036295 Z"
+     sodipodi:nodetypes="cccccccccc" />
+</svg>

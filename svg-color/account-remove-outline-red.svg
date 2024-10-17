@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="mdi-account-remove-outline"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="account-remove-outline-red.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <g
+         id="g10">
+        <path
+           d="m 15,13 c 2.67,0 8,1.33 8,4 v 3 H 7 v -3 c 0,-2.67 5.33,-4 8,-4"
+           id="path9" />
+        <path
+           d="m 15,4 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4"
+           id="path10" />
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.56"
+     inkscape:cx="12.042683"
+     inkscape:cy="12.042683"
+     inkscape:window-width="1416"
+     inkscape:window-height="773"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="mdi-account-remove-outline" />
+  <path
+     d="m 15,14.9 c -3,0 -6.1,1.46 -6.1,2.1 v 1.1 H 21.1 V 17 c 0,-0.64 -3.13,-2.1 -6.1,-2.1 z"
+     id="path5" />
+  <path
+     d="M 15,5.9 A 2.1,2.1 0 0 0 12.9,8 2.1,2.1 0 0 0 15,10.1 c 1.16,0 2.1,-0.94 2.1,-2.1 0,-1.16 -0.94,-2.1 -2.1,-2.1"
+     id="path3" />
+  <g
+     id="g8"
+     style="fill:#ff0000;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-dasharray:none"
+     clip-path="url(#clipPath8)">
+    <path
+       d="m 15,13 c 2.67,0 8,1.33 8,4 v 3 H 7 v -3 c 0,-2.67 5.33,-4 8,-4"
+       id="path7"
+       style="fill:#ff0000;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-dasharray:none" />
+    <path
+       d="m 15,4 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4"
+       id="path8"
+       style="fill:#ff0000;stroke:#000000;stroke-opacity:1;stroke-width:2;stroke-dasharray:none" />
+  </g>
+  <path
+     d="M 1.46,8.88 2.88,7.46 5,9.59 7.12,7.46 8.54,8.88 6.41,11 8.54,13.12 7.12,14.54 5,12.41 2.88,14.54 1.46,13.12 3.59,11 1.46,8.88"
+     id="path1" />
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="mdi-close-circle-multiple-outline"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="close-circle-multiple-outline-red.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.32"
+     inkscape:cx="11.93609"
+     inkscape:cy="11.93609"
+     inkscape:window-width="1392"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="mdi-close-circle-multiple-outline" />
+  <path
+     style="fill:#ff0000;stroke-width:0.37594;stroke-linejoin:bevel;stroke-miterlimit:1"
+     d="m 14.464139,4.6665737 c -3.150203,-0.058033 -5.9474833,2.5663024 -6.6986315,5.5219833 -0.2337433,2.15175 -0.2748217,4.56936 1.283115,6.280472 1.6854395,2.219041 4.5920865,3.47589 7.3539565,2.823587 3.553838,-0.607215 6.436874,-4.12853 5.989338,-7.771381 0.0033,-3.2001279 -2.655227,-6.0147903 -5.654884,-6.7889453 -0.752733,-0.09916 -1.51589,-0.061053 -2.272894,-0.065716 z M 13.538974,9.782513 c 0.564294,0.553457 1.458081,1.841781 2.201502,0.804897 0.477142,-0.9844844 2.219234,-1.8209987 1.850354,-0.365172 -0.547082,0.69811 -2.242319,1.612087 -1.110571,2.510719 0.984485,0.477142 1.820999,2.219235 0.365172,1.850354 -0.69814,-0.547111 -1.612027,-2.24226 -2.510763,-1.110615 -0.51291,0.331975 -1.034357,1.370929 -1.562626,1.324062 -1.014339,-0.643493 0.01972,-1.24213 0.587028,-1.842732 1.284995,-0.741572 0.216021,-1.817241 -0.561442,-2.419013 -1.306151,-0.5732534 0.154403,-2.0582602 0.741346,-0.7525 z"
+     id="path2" />
+  <path
+     d="M18.54 9.88L17.12 8.47L15 10.59L12.88 8.47L11.47 9.88L13.59 12L11.47 14.12L12.88 15.54L15 13.41L17.12 15.54L18.54 14.12L16.41 12M2 12C2 9.21 3.64 6.8 6 5.68V3.5C2.5 4.76 0 8.09 0 12S2.5 19.24 6 20.5V18.32C3.64 17.2 2 14.79 2 12M15 3C10.04 3 6 7.04 6 12S10.04 21 15 21 24 16.96 24 12 19.96 3 15 3M15 19C11.14 19 8 15.86 8 12S11.14 5 15 5 22 8.14 22 12 18.86 19 15 19Z"
+     id="path1" />
+</svg>

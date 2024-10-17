@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="mdi-hazard-lights"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="hazard-lights-red.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="11.4"
+     inkscape:cx="11.885965"
+     inkscape:cy="11.885965"
+     inkscape:window-width="1424"
+     inkscape:window-height="802"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="mdi-hazard-lights" />
+  <path
+     style="fill:#ff0000;stroke:#000000;stroke-width:0.175439;stroke-linejoin:bevel;stroke-miterlimit:1"
+     d="M 11.921087,5.6215735 C 11.272814,5.8887157 11.112799,6.6893084 10.706424,7.2045144 8.4460356,11.025518 6.2092588,14.872851 4.0160522,18.725574 c -0.2535424,0.593024 0.46931,0.961258 0.9740109,0.82178 4.7310626,-0.0277 9.4645279,0.0615 14.1940789,-0.06356 0.596841,0.07275 1.009312,-0.647447 0.60564,-1.110882 C 17.390324,14.201441 14.982322,10.034493 12.54009,5.8879866 12.35677,5.6916574 12.193884,5.6052818 11.921087,5.6215735 Z m 0.12267,3.5745614 c 1.606457,2.7199041 3.216403,5.4884411 4.789439,8.2495541 -3.225192,0.03929 -6.451186,0.0335 -9.6763635,-0.0075 1.6013836,-2.778011 3.2210205,-5.550796 4.8492325,-8.304893 z"
+     id="path2" />
+  <path
+     d="M12,12L14.33,16H9.68L12,12M12,8L6.21,18H17.8L12,8M12,2L1,21H23L12,2M12,6L19.53,19H4.47L12,6Z"
+     id="path1" />
+</svg>
