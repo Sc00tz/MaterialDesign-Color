@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="mdi-battery-charging-wireless-90"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="battery-charging-wireless-90-color.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="17.29"
+     inkscape:cx="12.030075"
+     inkscape:cy="12.030075"
+     inkscape:window-width="1376"
+     inkscape:window-height="591"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="mdi-battery-charging-wireless-90" />
+  <path
+     d="M 13,4 H 11 V 2 H 5 V 4 L 3.5205321,4.2891845 C 2.9785048,4.395132 1.9831852,4.4479713 2,5 L 2.4626952,20.190283 C 2.47951,20.742312 2.4477153,22 3,22 h 10 c 0.552285,0 0.639382,-2.3565 0.652979,-2.908618 L 14,5 c 0.0136,-0.5521174 -1.777964,-0.2481203 -2.330249,-0.2481203"
+     id="path3"
+     style="fill:#33ff00;fill-opacity:1"
+     sodipodi:nodetypes="cccccsssssssc" />
+  <path
+     d="m 17.24,7.76 -1.41,1.41 c 1.56,1.56 1.56,4.09 0,5.66 l 1.41,1.41 c 2.34,-2.34 2.34,-6.14 0,-8.48"
+     id="path2" />
+  <path
+     d="m 20.07,4.93 -1.41,1.41 c 3.13,3.12 3.13,8.19 0,11.32 l 1.41,1.41 c 3.9,-3.9 3.9,-10.23 0,-14.14"
+     id="path1" />
+  <path
+     d="M 12,7.5 H 4 V 6 h 8 z"
+     id="path4"
+     style="fill:#f9f9f9" />
+  <path
+     d="M 11.983229,20 H 3.9832273 V 6 h 8.0000017 m 0.67,-2 h -1.67 V 2 H 4.9832273 v 2 h -1.67 a 1.33,1.33 0 0 0 -1.33,1.33 v 15.34 c 0,0.73 0.6,1.33 1.33,1.33 h 9.3400017 a 1.33,1.33 0 0 0 1.33,-1.33 V 5.33 c 0,-0.73 -0.6,-1.33 -1.33,-1.33 z"
+     id="path1-1"
+     style="fill:#1a1a1a" />
+</svg>

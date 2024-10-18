@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="mdi-battery-charging-wireless-50"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="battery-charging-wireless-50-color.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="14.04"
+     inkscape:cx="12.037037"
+     inkscape:cy="11.858974"
+     inkscape:window-width="1400"
+     inkscape:window-height="570"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="mdi-battery-charging-wireless-50" />
+  <path
+     d="M 13,4 H 11 V 2 H 5 V 4 L 3.7834758,4.3561254 C 3.2534356,4.5112893 1.9793335,4.4481021 2,5 L 2.5698006,20.216524 C 2.590467,20.768422 2.4477153,22 3,22 h 10 c 0.552285,0 0.260528,-2.015338 0.287749,-2.566952 L 14,5 C 14.027221,4.4483865 12.341459,4.7122507 11.789174,4.7122507"
+     id="path3"
+     style="fill:#ffff00;fill-opacity:1"
+     sodipodi:nodetypes="cccccsssssssc" />
+  <path
+     d="m 17.24,7.76 -1.41,1.41 c 1.56,1.56 1.56,4.09 0,5.66 l 1.41,1.41 c 2.34,-2.34 2.34,-6.14 0,-8.48"
+     id="path2" />
+  <path
+     d="m 20.07,4.93 -1.41,1.41 c 3.13,3.12 3.13,8.19 0,11.32 l 1.41,1.41 c 3.9,-3.9 3.9,-10.23 0,-14.14"
+     id="path1" />
+  <path
+     d="M 12,13 H 4 V 6 h 8 z"
+     id="path4"
+     style="fill:#f9f9f9" />
+  <path
+     d="M 12,20 H 4 V 6 h 8 M 12.67,4 H 11 V 2 H 5 V 4 H 3.33 A 1.33,1.33 0 0 0 2,5.33 V 20.67 C 2,21.4 2.6,22 3.33,22 h 9.34 A 1.33,1.33 0 0 0 14,20.67 V 5.33 C 14,4.6 13.4,4 12.67,4 Z"
+     id="path1-2"
+     style="fill:#1a1a1a" />
+</svg>
