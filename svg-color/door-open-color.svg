@@ -21,7 +21,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="6.11"
-     inkscape:cx="11.947627"
+     inkscape:cx="12.111293"
      inkscape:cy="11.947627"
      inkscape:window-width="1368"
      inkscape:window-height="851"
@@ -30,12 +30,8 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="mdi-door-open" />
   <path
-     d="M 12,3 C 10.89,3 10,3.89 10,5 H 3 V 19 H 2 v 2 H 22 V 19 H 21 V 5 C 21,3.89 20.11,3 19,3 h -7"
-     id="path1" />
-  <path
-     d="m 5,11 h 2 v 2 H 5 Z"
-     id="path3"
-     style="fill:#ffffff" />
+     id="path1"
+     d="M 12 3 C 10.89 3 10 3.89 10 5 L 3 5 L 3 19 L 2 19 L 2 21 L 22 21 L 22 19 L 21 19 L 21 5 C 21 3.89 20.11 3 19 3 L 12 3 z M 5 11 L 7 11 L 7 13 L 5 13 L 5 11 z " />
   <path
      d="m 12,5 h 7 V 19 H 12 V 5"
      id="path2"

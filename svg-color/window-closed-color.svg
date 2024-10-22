@@ -33,11 +33,7 @@
      d="m 6,2 h 12 a 2,2 0 0 1 2,2 v 16 a 2,2 0 0 1 -2,2 H 6 A 2,2 0 0 1 4,20 V 4 A 2,2 0 0 1 6,2 Z"
      id="path2" />
   <path
-     d="m 6,11 h 4 V 9 h 4 v 2 h 4 V 4 H 6 v 7"
-     id="path1"
-     style="fill:#b7bec8" />
-  <path
-     d="M 18,13 H 6 v 7 h 12 v -7"
      id="path3"
-     style="fill:#b7bec8" />
+     style="fill:#b7bec8"
+     d="M 18,13 H 6 v 7 H 18 V 13 M 6,11 h 4 V 9 h 4 v 2 h 4 V 4 H 6 v 7" />
 </svg>

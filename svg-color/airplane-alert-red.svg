@@ -21,7 +21,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="7.03"
-     inkscape:cx="11.948791"
+     inkscape:cx="12.091038"
      inkscape:cy="12.019915"
      inkscape:window-width="1368"
      inkscape:window-height="778"
@@ -30,11 +30,8 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="mdi-airplane-alert" />
   <path
-     d="m 20,17 h 2 v -2 h -2 z"
-     id="path3" />
-  <path
-     d="m 20,7 v 6 h 2 V 7 h -2"
-     id="path2" />
+     id="path2"
+     d="m 20,7 v 6 h 2 V 7 h -2 m 0,10 h 2 v -2 h -2 z" />
   <path
      d="m 17.56,3.91 c 0.59,0.59 0.59,1.54 0,2.12 l -3.89,3.89 2.12,9.19 -1.41,1.42 L 10.5,13.1 6.6,17 6.96,19.47 5.89,20.53 4.13,17.35 0.944,15.58 2,14.5 4.5,14.87 8.37,11 0.944,7.09 2.36,5.68 11.55,7.8 15.44,3.91 C 16,3.33 17,3.33 17.56,3.91"
      id="path1"

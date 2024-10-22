@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="mdi-battery-charging-wireless-90"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="battery-10-color.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="17.29"
+     inkscape:cx="11.740891"
+     inkscape:cy="10.526316"
+     inkscape:window-width="1376"
+     inkscape:window-height="591"
+     inkscape:window-x="129"
+     inkscape:window-y="201"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="mdi-battery-charging-wireless-90" />
+  <g
+     id="g1"
+     transform="translate(4.0167718)">
+    <rect
+       style="display:inline;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.403576"
+       id="rect1"
+       width="8.4441881"
+       height="2.2556407"
+       x="3.7015617"
+       y="17.929436"
+       inkscape:label="Fill Level" />
+    <path
+       d="M 11.983229,20 H 3.9832273 V 6 h 8.0000017 m 0.67,-2 h -1.67 V 2 H 4.9832273 v 2 h -1.67 a 1.33,1.33 0 0 0 -1.33,1.33 v 15.34 c 0,0.73 0.6,1.33 1.33,1.33 h 9.3400017 a 1.33,1.33 0 0 0 1.33,-1.33 V 5.33 c 0,-0.73 -0.6,-1.33 -1.33,-1.33 z"
+       id="path1-1"
+       style="display:inline;fill:#1a1a1a"
+       inkscape:label="Battery Outline" />
+  </g>
+</svg>

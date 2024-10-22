@@ -21,27 +21,33 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="18.53"
-     inkscape:cx="12.034539"
+     inkscape:cx="12.088505"
      inkscape:cy="11.845656"
      inkscape:window-width="1472"
      inkscape:window-height="608"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-x="154"
+     inkscape:window-y="222"
      inkscape:window-maximized="0"
      inkscape:current-layer="mdi-battery-charging-20" />
   <path
-     d="M 12.396201,4.6475985 9.8627361,4.8094981 11.05,2 h -6 L 6.1832974,4.8094981 4.1355316,4.8634647 C 3.4012478,4.8828159 2.6720361,4.5960107 2.6436319,5.33 L 2.05,20.67 c -0.028229,0.729454 1.0857654,0.780475 1.8156989,0.790335 l 7.9908361,0.107933 C 12.586469,21.578127 14.05,21.4 14.05,20.67 V 5.33 c 0,-0.7345387 -0.920756,-0.7292462 -1.653799,-0.6824015 z"
-     id="path3"
-     style="fill:#ff4000;fill-opacity:1"
-     sodipodi:nodetypes="sccccssssssss" />
-  <path
-     d="m 12.05,17 h -8 V 6 h 8"
-     id="path2"
-     style="fill:#f9f9f9" />
-  <path
      d="m 23.05,11 h -3 V 4 l -5,10 h 3 v 8"
-     id="path1" />
-  <path
-     d="M 12.076336,20.007632 H 4.0763359 V 6.0076333 h 8.0000001 m 0.67,-2 h -1.67 v -2 H 5.0763359 v 2 h -1.67 a 1.33,1.33 0 0 0 -1.33,1.33 V 20.677632 c 0,0.73 0.6,1.33 1.33,1.33 h 9.3400001 a 1.33,1.33 0 0 0 1.33,-1.33 V 5.3376333 c 0,-0.73 -0.6,-1.33 -1.33,-1.33 z"
-     id="path1-8" />
+     id="path1"
+     inkscape:label="Logo" />
+  <g
+     id="g2"
+     transform="translate(0.07967677,0.003816)">
+    <rect
+       style="display:inline;fill:#ff4000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.483601"
+       id="rect1"
+       width="8.4441881"
+       height="3.238868"
+       x="3.7015617"
+       y="16.946209"
+       inkscape:label="Fill Level" />
+    <path
+       d="M 11.983229,20 H 3.9832273 V 6 h 8.0000017 m 0.67,-2 h -1.67 V 2 H 4.9832273 v 2 h -1.67 a 1.33,1.33 0 0 0 -1.33,1.33 v 15.34 c 0,0.73 0.6,1.33 1.33,1.33 h 9.3400017 a 1.33,1.33 0 0 0 1.33,-1.33 V 5.33 c 0,-0.73 -0.6,-1.33 -1.33,-1.33 z"
+       id="path1-1"
+       style="display:inline;fill:#1a1a1a"
+       inkscape:label="Battery Outline" />
+  </g>
 </svg>

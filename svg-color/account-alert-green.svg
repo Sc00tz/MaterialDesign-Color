@@ -21,7 +21,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="2.16"
-     inkscape:cx="11.805556"
+     inkscape:cx="12.037037"
      inkscape:cy="11.805556"
      inkscape:window-width="1104"
      inkscape:window-height="710"
@@ -30,17 +30,10 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="mdi-account-alert" />
   <path
-     d="m 20,17 v -2 h 2 v 2 z"
-     id="path4" />
+     id="path3"
+     d="M 20,12 V 7 h 2 v 6 h -2 m 0,4 v -2 h 2 v 2 z" />
   <path
-     d="M 20,12 V 7 h 2 v 6 h -2"
-     id="path3" />
-  <path
-     d="m 10,14 c 4.42,0 8,1.79 8,4 v 2 H 2 v -2 c 0,-2.21 3.58,-4 8,-4"
-     id="path2"
-     style="fill:#00ff00" />
-  <path
-     d="M 10,4 A 4,4 0 0 1 14,8 4,4 0 0 1 10,12 4,4 0 0 1 6,8 4,4 0 0 1 10,4"
      id="path1"
-     style="fill:#00ff00" />
+     style="fill:#00ff00"
+     d="m 10,4 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 m 0,10 c 4.42,0 8,1.79 8,4 v 2 H 2 v -2 c 0,-2.21 3.58,-4 8,-4" />
 </svg>

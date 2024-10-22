@@ -34,19 +34,11 @@
      id="path5"
      style="fill:#aa4400" />
   <path
-     d="M 9,15 6,16 2,13 5,9 9,15"
-     id="path4"
-     style="fill:#803300" />
-  <path
-     d="m 5,17 -3,2 v -4 l 3,2"
-     id="path3"
-     style="fill:#552200" />
-  <path
-     d="m 15,15 4,-6 3,4 -4,3 -3,-1"
      id="path2"
-     style="fill:#803300" />
+     style="fill:#803300"
+     d="m 15,15 4,-6 3,4 -4,3 -3,-1 M 9,15 6,16 2,13 5,9 9,15" />
   <path
-     d="m 22,19 -3,-2 3,-2 v 4"
      id="path1"
-     style="fill:#552200" />
+     style="fill:#552200"
+     d="m 22,19 -3,-2 3,-2 v 4 M 5,17 2,19 v -4 l 3,2" />
 </svg>

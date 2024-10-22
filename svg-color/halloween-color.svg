@@ -21,7 +21,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="11.4"
-     inkscape:cx="12.017544"
+     inkscape:cx="12.105263"
      inkscape:cy="11.885965"
      inkscape:window-width="1456"
      inkscape:window-height="860"
@@ -39,15 +39,7 @@
      sodipodi:nodetypes="cccccssscscssc"
      style="fill:#ff6600" />
   <path
-     d="m 8,17 h 2 l 1,-1 1,1 h 2 l 1,-1 1,1 1.5,-3 -3.58,0.62 L 13,16 12,15 H 10 L 9,16 8,15 6,14 Z"
-     id="path5"
-     style="fill:#ffcc00" />
-  <path
-     d="m 9,10 -1.25,2.25 h 2.5 L 9,10"
-     id="path3"
-     style="fill:#ffcc00" />
-  <path
-     d="m 15,10 -1.25,2.25 h 2.5 L 15,10"
      id="path4"
-     style="fill:#ffcc00" />
+     style="fill:#ffcc00"
+     d="m 15,10 -1.25,2.25 h 2.5 L 15,10 m -6,0 -1.25,2.25 h 2.5 L 9,10 m -1,7 h 2 l 1,-1 1,1 h 2 l 1,-1 1,1 1.5,-3 -3.58,0.62 L 13,16 12,15 H 10 L 9,16 8,15 6,14 Z" />
 </svg>

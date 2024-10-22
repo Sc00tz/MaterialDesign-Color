@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   id="mdi-battery-charging-70"
+   id="mdi-battery-charging-20"
    viewBox="0 0 24 24"
    version="1.1"
    sodipodi:docname="battery-charging-70-color.svg"
@@ -20,28 +20,34 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="9.92"
-     inkscape:cx="11.995968"
-     inkscape:cy="11.844758"
-     inkscape:window-width="1336"
-     inkscape:window-height="590"
-     inkscape:window-x="0"
+     inkscape:zoom="18.53"
+     inkscape:cx="12.088505"
+     inkscape:cy="11.845656"
+     inkscape:window-width="1472"
+     inkscape:window-height="608"
+     inkscape:window-x="154"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
-     inkscape:current-layer="mdi-battery-charging-70" />
+     inkscape:current-layer="mdi-battery-charging-20" />
   <path
-     d="M 23,11 H 20 V 4 l -5,10 h 3 v 8 z"
-     id="path3" />
-  <path
-     d="M 12.67,4 H 11 V 2 H 5 V 4 H 3.33 A 1.33,1.33 0 0 0 2,5.33 V 20.67 C 2,21.4 2.6,22 3.33,22 h 9.34 C 13.4,22 14,21.4 14,20.67 V 5.33 A 1.33,1.33 0 0 0 12.67,4"
-     id="path2"
-     style="fill:#99ff00;fill-opacity:1" />
-  <path
-     d="M 12,10 H 4 V 6 h 8"
+     d="m 23.05,11 h -3 V 4 l -5,10 h 3 v 8"
      id="path1"
-     style="fill:#f9f9f9" />
-  <path
-     d="M 12,20 H 4 V 6 h 8 M 12.67,4 H 11 V 2 H 5 V 4 H 3.33 A 1.33,1.33 0 0 0 2,5.33 V 20.67 C 2,21.4 2.6,22 3.33,22 h 9.34 A 1.33,1.33 0 0 0 14,20.67 V 5.33 C 14,4.6 13.4,4 12.67,4 Z"
-     id="path1-0"
-     style="fill:#1a1a1a" />
+     inkscape:label="Logo" />
+  <g
+     id="g2-9"
+     transform="translate(0.07967677,0.003816)">
+    <rect
+       style="display:inline;fill:#66ff00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.857331"
+       id="rect1-1"
+       width="8.4441881"
+       height="10.179296"
+       x="3.7015617"
+       y="10.005783"
+       inkscape:label="Fill Level" />
+    <path
+       d="M 11.983229,20 H 3.9832273 V 6 h 8.0000017 m 0.67,-2 h -1.67 V 2 H 4.9832273 v 2 h -1.67 a 1.33,1.33 0 0 0 -1.33,1.33 v 15.34 c 0,0.73 0.6,1.33 1.33,1.33 h 9.3400017 a 1.33,1.33 0 0 0 1.33,-1.33 V 5.33 c 0,-0.73 -0.6,-1.33 -1.33,-1.33 z"
+       id="path1-1-7"
+       style="display:inline;fill:#1a1a1a"
+       inkscape:label="Battery Outline" />
+  </g>
 </svg>
