@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="mdi-floor-lamp-outline"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="floor-lamp-outline-yellow.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="9.92"
+     inkscape:cx="11.995968"
+     inkscape:cy="11.995968"
+     inkscape:window-width="1440"
+     inkscape:window-height="735"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="mdi-floor-lamp-outline" />
+  <path
+     style="fill:#ffcc00;stroke-width:0.201613;stroke-linejoin:bevel;stroke-miterlimit:1"
+     d="M 11.989864,3.4551805 C 11.293729,3.5831316 10.279013,3.1699353 9.8662346,3.9155037 9.6272073,4.9214783 9.1868834,5.9003612 9.0885285,6.9306404 c 0.2221019,0.8124497 1.2626035,0.5449457 1.8855885,0.6197635 1.191239,-0.052272 2.429152,0.1402472 3.591825,-0.152746 0.699573,-0.4512425 0.09736,-1.3291139 0.0154,-1.9430061 C 14.323798,4.8215203 14.36604,3.9642381 13.826239,3.5177658 13.253244,3.3196578 12.590183,3.4980064 11.989864,3.4551805 Z"
+     id="path2" />
+  <path
+     d="M15 2L17 9H7L9 2M13.6 4H10.4L9.55 7H14.45M11 10H13V20H16V22H8V20H11Z"
+     id="path1" />
+</svg>

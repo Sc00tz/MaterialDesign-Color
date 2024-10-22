@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="mdi-baseball-diamond-outline"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="baseball-diamond-outline-color.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="15.04"
+     inkscape:cx="12.034574"
+     inkscape:cy="11.868351"
+     inkscape:window-width="1424"
+     inkscape:window-height="798"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="mdi-baseball-diamond-outline" />
+  <path
+     id="rect1"
+     style="fill:#d38d5f;fill-rule:evenodd;stroke-width:0.83682"
+     d="M -3.739932 -13.365975 L 4.7729708 -13.365975 L 4.7743518 -18.817051 A 3.3577127 3.3577127 71.952872 0 1 2.7966626 -19.769987 A 3.3577127 3.3577127 71.952872 0 1 2.1116529 -20.767118 L -3.7385509 -20.767118 L -3.739932 -13.365975 z "
+     transform="rotate(135)" />
+  <path
+     style="fill:#008000;stroke-width:0.132979;stroke-linejoin:bevel;stroke-miterlimit:1"
+     d="M 11.711867,3.4573169 C 8.6840713,3.5239175 5.9463586,5.2668754 3.9658001,7.4582251 3.6573738,7.8847147 3.0831055,8.2132126 3.0445774,8.7643738 c 0.073559,0.5510567 0.6794683,0.8305955 0.9996176,1.2476192 0.6774287,0.662439 1.3250152,1.35884 2.0341274,1.986999 0.5748168,0.326074 0.9803956,-0.298703 1.3473549,-0.637991 1.5332489,-1.5123077 3.0515277,-3.039685 4.5756527,-4.5611652 1.743324,1.7259448 3.457387,3.4904732 5.218923,5.1924132 0.541726,0.409547 1.002313,-0.252447 1.354753,-0.596786 0.737273,-0.797342 1.617123,-1.4846319 2.230191,-2.3860246 C 21.078804,8.4083594 20.409581,7.9831535 20.107448,7.5588795 18.562781,5.8546711 16.627956,4.3974036 14.388713,3.7705442 13.515772,3.5486274 12.612306,3.4450505 11.711867,3.4573169 Z"
+     id="path2" />
+  <path
+     d="M12 2C5 2 1 9 1 9L9.3 17.3C9.74 16.77 10.32 16.37 11 16.17L7.83 13L12 8.83L16.17 13L13 16.17C13.68 16.37 14.27 16.77 14.7 17.3L23 9C23 9 19 2 12 2M17.59 11.59L12 6L6.41 11.59L3.59 8.76C4.95 7 7.89 4 12 4C16.08 4 19.03 7 20.4 8.77L17.59 11.59M13 13C13 13.55 12.55 14 12 14S11 13.55 11 13 11.45 12 12 12 13 12.45 13 13M13.5 20L12 21L10.5 20V18H13.5V20Z"
+     id="path1" />
+</svg>
